@@ -6,8 +6,7 @@ function App() {
   return (
     <div className="app-wrapper font-jura lg light bg fg-white">
       <main className="app-content bg box-shadow">
-        <div className="scrollable">
-          <div className="segment">
+          <div className="segment scrollable">
             <div className="username">
               <h1 className="xxl bolder fg-yellow">@drazulay</h1>
             </div>
@@ -20,7 +19,6 @@ function App() {
               <span className="link-container"><div>🔑</div><a href="https://keybase.io/drazulay" className="button">A5BC C43C 82B0 9754</a></span>
             </div>
           </div>
-        </div>
       </main>
     </div>
   );
