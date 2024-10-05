@@ -132,3 +132,5 @@ dist
 package-lock.json
 .idea
 .DS_Store
+build/
+build.tar.gz
