@@ -43,6 +43,31 @@
     font-size: 3em;
 }
 
+@media screen and (max-width: 600px) {
+    .xxs {
+        font-size: 0.5em;
+    }
+    .xs {
+        font-size: 0.625em;
+    }
+    .sm {
+        font-size: 0.75em;
+    }
+    .md {
+        font-size: 0.9em;
+    }
+    .lg {
+        font-size: 1.1em;
+    }
+    .xl {
+        font-size: 1.5em;
+    }
+    .xxl {
+        font-size: 2em;
+    }
+
+}
+
 .font-jura {
     font-family: "Jura", sans-serif;
     font-optical-sizing: auto;
